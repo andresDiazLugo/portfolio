@@ -1,0 +1,35 @@
+@use '../base/variables'as v;
+@use '../base/mixins' as m;
+
+.containerSkill{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin:25rem auto
+}
+
+.containerImg{
+    background-color: white;
+    border-radius: 40px;
+    width: 30rem;
+    padding: 1rem;
+    -webkit-box-shadow: 9px 7px 12px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 7px 12px 0px rgba(0,0,0,0.75);
+    box-shadow: 9px 7px 12px 0px rgba(0,0,0,0.75);
+    @include m.grid(2, 1rem);
+    img{
+        height: 6rem;
+        align-self: center;
+    }
+    @include m.displayGlobal(500px) {
+        width: 80rem;
+        margin: 2rem auto;
+        @include m.grid(3, 3rem);
+        img{
+            align-self: center;
+            height: 10rem;
+            align-self: center;
+        }
+    }
+}

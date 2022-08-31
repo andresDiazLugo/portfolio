@@ -1,0 +1,18 @@
+@use 'variables' as v;
+
+
+// @mixin heading($color){//mixin inteligente
+//    color: $color;
+// }
+@mixin displayGlobal($size){
+    @media(min-width: $size){
+        @content;
+    }
+}
+
+@mixin grid($columnas,$espaciado){
+    display: grid;
+    grid-template-columns: repeat($columnas, 1fr);
+    gap: $espaciado;
+    justify-items: center;
+}

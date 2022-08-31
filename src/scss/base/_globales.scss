@@ -1,0 +1,25 @@
+@use 'variables' as v;
+
+html {
+    font-size: 62.5%;//nos habilita que 1rem sea a 10px
+    box-sizing: border-box;
+}
+*,
+*:before,
+*::after{
+    box-sizing: inherit ;
+}
+body{
+    font-family: v.$fuente-principal;
+    font-size: 1.6rem;
+    background-color:v.$blanco;
+    &.fijo{
+        padding-top: 8.6rem;
+    }
+}
+p{
+    font-size: 2rem;
+}
+.App{
+    position: relative;
+}

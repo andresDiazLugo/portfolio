@@ -1,0 +1,52 @@
+@use '../base/variables'as v;
+@use '../base/mixins' as m;
+
+.containerPro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    h1{
+        text-align: center;
+    }
+    ul{
+    padding: 0;
+    }
+    
+}
+.containerLi{
+    margin-top: 4rem;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    border-bottom-left-radius: 3rem ;
+    -webkit-box-shadow: 10px 14px 28px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 14px 28px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 14px 28px 0px rgba(0,0,0,0.75);
+
+    @include m.displayGlobal(500px) {
+        width: 50rem;
+        padding: 0;
+    }
+
+border-top-right-radius: 3rem;
+    @include m.displayGlobal(500px) {
+        display: flex;
+        justify-content: space-around;
+    }
+}
+.containerEnlace{
+    display: flex;
+    margin-right: 3rem;
+    gap: 1rem;
+}
+
+.img{
+    height: 14rem;
+    width: 18rem;
+    border-radius: 2rem;
+    @include m.displayGlobal(500px) {
+    width: 100%;
+    margin-left: -1.8rem;
+    }
+}

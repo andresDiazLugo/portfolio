@@ -1,0 +1,7 @@
+// @import 'base/variables';//version antigua 
+// @import 'contenido/App';//version antigua
+
+//nueva version para poder usarla requerimos un archivo en la carpteta base y en la carpeta contenido
+
+@use 'base';//al colocar base apuntamos a la carpeta base archivo _index.scss
+@use 'layout';
