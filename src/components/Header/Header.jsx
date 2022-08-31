@@ -4,7 +4,7 @@ export default function Header() {
     e.preventDefault()
     const seccionScroll = e.target.attributes.href.value
     const seccion = document.querySelector(seccionScroll)
-    seccion.scrollIntoView({behavior: "smooth"});
+    seccion.scrollIntoView({behavior : "smooth"});
   }
   return (
     <header className='containerHeader'>
