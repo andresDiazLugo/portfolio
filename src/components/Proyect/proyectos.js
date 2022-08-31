@@ -23,5 +23,13 @@ export const proyects = [
         img:"https://res.cloudinary.com/da76mkk4h/image/upload/v1661958341/juego_xp8isz.png",
         video:"sss",
         git:"https://github.com/andresDiazLugo/TA_TE_TI",
+    },
+    {   
+        id:4,
+        url:"https://bloggcod-gates-0142b5.netlify.app",
+        name:"block cafe",
+        img:"https://res.cloudinary.com/da76mkk4h/image/upload/v1661960691/cafe_gzo2qq.png",
+        video:"sss",
+        git:"https://github.com/andresDiazLugo/TA_TE_TI",
     }
 ]
