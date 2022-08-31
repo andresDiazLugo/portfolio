@@ -1,13 +1,10 @@
-import wallet from '../../img/wallet.png'
-import juego from '../../img/juego.png'
-import country from '../../img/country.png'
 
 export const proyects = [
     {
         id:1,
         url:"https://henry-pf-client.vercel.app/",
         name:"wallet virtual",
-        img:wallet,
+        img:"https://res.cloudinary.com/da76mkk4h/image/upload/v1661958356/wallet_s2k1iy.png",
         video:"ssss",
         git:"https://github.com/facuperezbri/henry-pf-client",
     },
@@ -15,7 +12,7 @@ export const proyects = [
         id:2,
         url:"https://front-country.vercel.app/",
         name: "country",
-        img:country,
+        img:"https://res.cloudinary.com/da76mkk4h/image/upload/v1661958329/country_rwabcu.png",
         video:"sss",
         git:"https://github.com/andresDiazLugo/frontCountry",
     },
@@ -23,7 +20,7 @@ export const proyects = [
         id:3,
         url:"https://ta-te-ihq9cmequ-andresdiazlugo.vercel.app/",
         name:"game",
-        img:juego,
+        img:"https://res.cloudinary.com/da76mkk4h/image/upload/v1661958341/juego_xp8isz.png",
         video:"sss",
         git:"https://github.com/andresDiazLugo/TA_TE_TI",
     }
