@@ -4,7 +4,7 @@ import Video from './components/video/Video'
 import About from './components/About/About'
 import Skill from './components/Skill/Skill'
 import Proyect from './components/Proyect/Proyect'
-import Footer from './components/footer/Footer'
+import Footer from './components/Footer/Footer'
 import Contact from './components/Contact/Contact'
 
 function App() {
