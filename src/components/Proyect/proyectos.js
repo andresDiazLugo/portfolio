@@ -31,5 +31,19 @@ export const proyects = [
         img:"https://res.cloudinary.com/da76mkk4h/image/upload/v1661960691/cafe_gzo2qq.png",
         video:"sss",
         git:"https://github.com/andresDiazLugo/TA_TE_TI",
+    },{
+        id:5,
+        url:"https://app-clima-ncye.vercel.app/",
+        name:"block cafe",
+        img:"https://res.cloudinary.com/da76mkk4h/image/upload/v1664314069/clima_gg0bbp.png",
+        video:"sss",
+        git:"https://github.com/andresDiazLugo/app-clima",
+    },{
+        id:6,
+        url:"https://tech-kohl.vercel.app/",
+        name:"block cafe",
+        img:"https://res.cloudinary.com/da76mkk4h/image/upload/v1664314286/tech_uoeomw.png",
+        video:"sss",
+        git:"https://github.com/andresDiazLugo/tech",
     }
 ]
