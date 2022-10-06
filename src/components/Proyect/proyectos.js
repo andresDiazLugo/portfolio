@@ -10,7 +10,7 @@ export const proyects = [
     },
     {
         id:2,
-        url:"https://front-country.vercel.app/",
+        url:"https://front-app-country.vercel.app/",
         name: "country",
         img:"https://res.cloudinary.com/da76mkk4h/image/upload/v1661958329/country_rwabcu.png",
         video:"sss",
