@@ -45,5 +45,13 @@ export const proyects = [
         img:"https://res.cloudinary.com/da76mkk4h/image/upload/v1664314286/tech_uoeomw.png",
         video:"sss",
         git:"https://github.com/andresDiazLugo/tech",
+    },
+    {
+        id:7,
+        url:"https://front-acortador-oots3uqja-andresdiazlugo.vercel.app/",
+        name:"acortador de URL",
+        img:"https://www.seoptimer.com/es/blog/wp-content/uploads/2015/10/acortador-url-redes-sociales.png",
+        video:"sss",
+        git:"https://github.com/andresDiazLugo/front-acortador",
     }
 ]
