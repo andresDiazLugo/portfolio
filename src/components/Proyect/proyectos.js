@@ -45,5 +45,12 @@ export const proyects = [
         img:"https://www.seoptimer.com/es/blog/wp-content/uploads/2015/10/acortador-url-redes-sociales.png",
         video:"sss",
         git:"https://github.com/andresDiazLugo/front-acortador",
+    },
+    {
+        id:8,
+        url:"https://app.netlify.com/sites/clinquant-rugelach-3eec22/overview",
+        name:"clon mercado libre",
+        video:"sss",
+        git:"https://github.com/andresDiazLugo/mercado-libre---clon",
     }
 ]
