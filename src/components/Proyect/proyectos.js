@@ -53,5 +53,11 @@ export const proyects = [
         img:"https://res.cloudinary.com/da76mkk4h/image/upload/v1667931315/mercado_libre_wwjhhe.png",
         video:"sss",
         git:"https://github.com/andresDiazLugo/mercado-libre---clon",
-    }
+    },{
+        id:9,
+        url:"https://snake-7hfoexpah-andresdiazlugo.vercel.app/",
+        name:"snake game",
+        img:"https://preview.redd.it/2j6b9xdsagu31.jpg?width=640&crop=smart&auto=webp&s=df145c53b59eba24e16896702e6e94b71592e89b",
+        video:"ssss",
+        git:"https://github.com/andresDiazLugo/snake"
 ]
