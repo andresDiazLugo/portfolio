@@ -61,5 +61,13 @@ export const proyects = [
         img:"https://preview.redd.it/2j6b9xdsagu31.jpg?width=640&crop=smart&auto=webp&s=df145c53b59eba24e16896702e6e94b71592e89b",
         video:"ssss",
         git:"https://github.com/andresDiazLugo/snake"
+    },
+    {
+         id:10,
+        url:"https://vercel.com/andresdiazlugo/gallery",
+        name:"gallery",
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQ6WCr5hHt3DklEr9E29omQvwwQF02aOamGbU8hmZh8dr5NHkMbJkR4aSvo1UWnK0p84&usqp=CAU",
+        video:"sss",
+        git:"https://github.com/andresDiazLugo/gallery"
     }
 ]
