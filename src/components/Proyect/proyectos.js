@@ -64,7 +64,7 @@ export const proyects = [
     },
     {
          id:10,
-        url:"https://vercel.com/andresdiazlugo/gallery",
+        url:"https://gallery-phi-five.vercel.app/signUp",
         name:"gallery",
         img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQ6WCr5hHt3DklEr9E29omQvwwQF02aOamGbU8hmZh8dr5NHkMbJkR4aSvo1UWnK0p84&usqp=CAU",
         video:"sss",
