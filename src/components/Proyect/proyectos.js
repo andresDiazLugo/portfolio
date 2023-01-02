@@ -69,5 +69,13 @@ export const proyects = [
         img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQ6WCr5hHt3DklEr9E29omQvwwQF02aOamGbU8hmZh8dr5NHkMbJkR4aSvo1UWnK0p84&usqp=CAU",
         video:"sss",
         git:"https://github.com/andresDiazLugo/gallery"
+    },
+    {
+        id:11,
+        url:"https://calculadora-jlsje90ve-andresdiazlugo.vercel.app/",
+        name:"calculadora",
+        img:"https://res.cloudinary.com/da76mkk4h/image/upload/v1672665041/calculadora.png",
+        video:"sss",
+        git:"https://github.com/andresDiazLugo/calculadora"
     }
 ]
