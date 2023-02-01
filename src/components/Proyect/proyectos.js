@@ -50,7 +50,7 @@ export const proyects = [
         id:8,
         url:"https://clinquant-rugelach-3eec22.netlify.app/",
         name:"clon mercado libre",
-        img:"https://res.cloudinary.com/da76mkk4h/image/upload/v1667931315/mercado_libre_wwjhhe.png",
+        img:"https://golden-beijinho-f059ab.netlify.app/",
         video:"sss",
         git:"https://github.com/andresDiazLugo/mercado-libre---clon",
     },
